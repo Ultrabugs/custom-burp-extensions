@@ -7,8 +7,9 @@ Just personal burp suite plugins i use for bug bounty
 - Search your sitemap.
 - Search between request, response or both.
 
-## Custom intruder 
+## intruder 
 - Very basic intruder needs UI work
+- Updated UI much cleaner: 2026-10-09
 
 ## Exporter 
 - Easily export and import your sitemap.
