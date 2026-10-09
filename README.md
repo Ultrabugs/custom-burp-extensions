@@ -13,7 +13,7 @@ Just personal burp suite plugins i use for bug bounty
 - Updated settings: added tons of new settings
 - Updated screenshot: added screenshot.
 
-- INFO:
+### INFO:
 To use the screenshot set a path and download chromium: sudo apt install chromium.
 Then set path in the settings to /usr/bin/chromium.
 
